@@ -1,2 +1,5 @@
-# Analysis-of-NHANES-2017-18-
-Analysis the association between caffeine intake and gallstones and cholecystectomy among U.S adults 
+# Analysis of NHANES 2017-18
+Analysis the association between caffeine intake and gallstones and cholecystectomy among U.S adults,using data from National Health and Nutrition Examination Survey 2017-18. 
+
+The data selected for this study is the publicly available data from the National Health and Nutrition Examination Survey (NHANES) 2017-2018. NHANES is a nation-wide study conducted every two years by the Centers for Disease Control and Prevention (CDC) to collect information on American’s health and nutrition. The five available data categories are Demographics (DEMO), Dietary (DIET), Examination (EXAM), Laboratory (LAB), and Questionaries (Q), with multiple sub-datasets within each category. 
+Specifically, data related to caffeine intake, gallstones, gallbladder surgery as well as demographic, lifestyle, and other dietary information are extracted and combined into a new dataset for analyses (selected variables shown below). Demographic, dietary, and questionnaire data were collected through surveys by in-person interviews; weight, BMI, and waist circumference were measured by physical examination; blood cholesterol was measured using laboratory tests.
